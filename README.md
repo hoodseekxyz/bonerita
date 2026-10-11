@@ -2,7 +2,7 @@
 
 Every turn needs a BONERITA.
 
-Rebrand of the original BONERINA site. Same marble aesthetic, new name, Soft Landing Club placeholders ready for after CA launch.
+Rebrand of the original partner site. Same marble aesthetic, new name, Soft Landing Club placeholders ready for after CA launch.
 
 ## Deploy
 

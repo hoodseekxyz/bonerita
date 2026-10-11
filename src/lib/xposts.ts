@@ -20,10 +20,10 @@ export const posts = [
     id: "pair",
     file: "/x/pair.jpg",
     download: "bonerita-pair-live.jpg",
-    alt: "The two marble statues at dinner, sunglasses on, burgundy silk and a green toga. The picture says every BONER needs a BONERITA.",
+    alt: "The two marble statues at dinner, sunglasses on, burgundy silk and a green toga. The picture says every turn needs a BONERITA.",
     wide: true,
     caption:
-      "Every $BONER needs a $BONERITA.\n\nHe flexes. She turns. Sunglasses stay on.\n\nCA: CONTRACT_PLACEHOLDER\n\nbonerita.xyz",
+      "Every turn needs a $BONERITA.\n\nHe flexes. She turns. Sunglasses stay on.\n\nCA: CONTRACT_PLACEHOLDER\n\nbonerita.xyz",
   },
   {
     id: "21",
@@ -63,8 +63,8 @@ export const posts = [
   {
     id: "01",
     file: "/x/01.jpg",
-    download: "bonerita-01-every-boner.jpg",
-    alt: "The goddess looks back. The picture says every BONER needs a BONERITA.",
+    download: "bonerita-01.jpg",
+    alt: "The goddess looks back. The picture says every turn needs a BONERITA.",
     caption: "Every turn needs a BONERITA.\n\nHe flexes. She turns.\n\nbonerita.xyz",
   },
   {

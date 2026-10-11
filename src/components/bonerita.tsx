@@ -220,7 +220,7 @@ export function Bonerita() {
           <p className="ribbon-track w-max py-3 text-sm tracking-[0.28em]">
             {Array.from({ length: 2 }).map((_, index) => (
               <span key={index} className="px-4">
-                EVERY BONER NEEDS A BONERITA · THE TURN · THE RIBBON · SOFT
+                EVERY TURN NEEDS A BONERITA · THE TURN · THE RIBBON · SOFT
                 LANDING · NOT A SECURITY ·
               </span>
             ))}
