@@ -18,8 +18,8 @@ export const profile = {
 export const posts = [
   {
     id: "21",
-    file: "/x/bonerita-21-rain.jpg",
-    download: "bonerita-21-rain.jpg",
+    file: "/x/bonerita-21-umbrella.jpg",
+    download: "bonerita-21-umbrella.jpg",
     alt: "The pair under one umbrella on a rainy street, holding hands.",
     caption: "One umbrella.\n\nThe street can wait.",
   },
