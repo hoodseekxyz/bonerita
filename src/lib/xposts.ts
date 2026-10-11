@@ -17,6 +17,13 @@ export const profile = {
 
 export const posts = [
   {
+    id: "26",
+    file: "/x/bonerita-26-bench.jpg",
+    download: "bonerita-26-bench.jpg",
+    alt: "He stays on the bench. She has already turned and left. The picture says BONERITA.",
+    caption: "Always ready.\n\nStill on the bench.\n\nShe already left.",
+  },
+  {
     id: "22",
     file: "/x/bonerita-22-museum.jpg",
     download: "bonerita-22-museum.jpg",

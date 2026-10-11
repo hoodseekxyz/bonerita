@@ -42,7 +42,7 @@ export function XPosts() {
       <main className="mx-auto max-w-6xl px-5 py-12">
         <p className="text-sm tracking-wide text-gold">X, ready to post</p>
         <h1 className="mt-3 max-w-3xl font-display text-5xl text-wine sm:text-6xl">
-          Nineteen ways to turn
+          Twenty ways to turn
         </h1>
         <p className="mt-4 max-w-2xl text-lg text-muted">
           Copy the line. Download the picture. No tag. No price.
