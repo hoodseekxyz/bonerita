@@ -17,15 +17,6 @@ export const profile = {
 
 export const posts = [
   {
-    id: "pair",
-    file: "/x/pair.jpg",
-    download: "bonerita-pair-live.jpg",
-    alt: "The two marble statues at dinner, sunglasses on, burgundy silk and a green toga. The picture says every turn needs a BONERITA.",
-    wide: true,
-    caption:
-      "Every turn needs a $BONERITA.\n\nHe flexes. She turns. Sunglasses stay on.\n\nCA: CONTRACT_PLACEHOLDER\n\nbonerita.xyz",
-  },
-  {
     id: "21",
     file: "/x/bonerita-21-rain.jpg",
     download: "bonerita-21-rain.jpg",
