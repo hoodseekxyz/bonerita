@@ -2,7 +2,7 @@ import { useState } from "react";
 import { Menu, X } from "lucide-react";
 import { X_ACCOUNT } from "@/lib/xposts";
 
-const CONTRACT = "";
+const CONTRACT = "0x412531bf8085a9c36a94e8eea68a548b8ac8cf38";
 
 const NAV = [
   { href: "#pair", label: "The pair" },
